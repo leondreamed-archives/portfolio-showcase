@@ -50,43 +50,122 @@ Welcome to my portfolio!
 
 ## Readers, writers and texts
 
+<!--
+  Briefly answer the following questions:
+  Why and how do we study language and literature?
+  How are we affected by texts in various ways?
+  In what ways is meaning constructed, negotiated, expressed and interpreted?
+  How does language use vary amongst text types and amongst literary forms?
+  How does the structure or style of a text affect meaning?
+  How do texts offer insights and challenges?
+-->
+<!-- Write about How Poems See, How Poems Sound -->
+
 <!-- TODO: write a bit about how this related with the stuff I did in ETS4U7 -->
 
 ## Time and space
 
+<!--
+  Talk about Things Fall Apart
+
+  How important is cultural or historical context to the production and reception of a text?​
+  How do we approach texts from different times and cultures to our own?
+  To what extent do texts offer insight into another culture?
+  How does the meaning and impact of a text change over time?
+  How do texts reflect, represent or form a part of cultural practices?
+  How does language represent social distinctions and identities?
+ -->
+
 ## Intertextuality
+
+<!--
+  Briefly answer the following:
+  How do texts adhere to and deviate from conventions associated with literary forms or text types?
+  How do conventions and systems of reference evolve over time?
+  In what ways can diverse texts share points of similarity?
+  How valid is the notion of a classic text?
+  How can texts offer multiple perspectives of a single issue, topic or theme?
+  In what ways can comparison and interpretation be transformative?
+-->
+
+<!-- Write about "The Public Image" where modernist authors were alluded to (and also upload that onto Learner's Portfolio) -->
+
+<!-- Write about Paper 1 practice "The Songlines" and how it alluded to Blaise Pascal's Pensées and the effect it had on the paper -->
 
 ---
 
 # IB Concepts
 
+<!-- see https://www.cambridge.org/us/education/blog/2019/07/25/7-key-concepts-english-language-and-literature-ib-diploma/ -->
+
 ## Identity
+
+<!--
+  Persepolis
+-->
 
 ## Culture
 
+<!--
+  Things Fall Apart
+-->
+
 ## Creativity
 
+<!--
+  The Affair poem, also include my poem I created
+-->
+
 ## Communication
+<!--
+  Connection between readers, writers, and texts
+
+  Penelopiad
+-->
 
 ## Perspective
+<!--
+  Things fall apart?
+-->
 
 ## Transformation
+<!--
+  A Doll's House
+-->
 
 ## Representation
+<!--
+  Realist play (Miss Julie?)
+-->
 
 ---
 
 # Fields of Inquiry
 
 ## Culture, identity, and community
+<!--
+ 
+-->
 
 ## Beliefs, values, and education
+<!--
+
+-->
 
 ## Politics, power, and justice
+<!--
+
+-->
 
 ## Art, creativity, and the imagination
+<!--
+
+-->
 
 ## Science, technology, and the environment
+<!--
+
+-->
 
 ---
 
@@ -105,6 +184,8 @@ Welcome to my portfolio!
 ---
 
 # Paper 1 Basics
+
+<!-- Effective strategies for Paper 1? -->
 
 ---
 
