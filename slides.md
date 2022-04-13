@@ -1,5 +1,7 @@
 ---
 aspectRatio: '8.5/11'
+defaults:
+  layout: portfolio
 fonts:
   sans: ['Open Sans', 'Economica']
   weights: '200,400,600,900'
@@ -65,32 +67,32 @@ Welcome to my portfolio!
 
 ## Time and space
 
-<!--
-  Talk about Things Fall Apart
+<!-- How important is cultural or historical context to the production and reception of a text?​ -->
 
-  How important is cultural or historical context to the production and reception of a text?​
-  How do we approach texts from different times and cultures to our own?
-  To what extent do texts offer insight into another culture?
-  How does the meaning and impact of a text change over time?
-  How do texts reflect, represent or form a part of cultural practices?
-  How does language represent social distinctions and identities?
- -->
+When reading texts, we need to consider the cultural and historical context in order to better understand the writer's intentions. In our course, a good example of a text that benefits from an understanding of the cultural and historical context is Things Fall Apart. Chinua Achebe wrote *Things Fall Apart* in response to the way European literature depicted African culture, especially in Joseph Conrad's *Heart of Darkness*.
+
+<!-- To what extent do texts offer insight into another culture? -->
+Things Fall Apart also gives the reader insight into African culture from a post-colonial lens. In Things Fall Apart, the reader learns about African culture from the inside. The reader is exposed to African traditions and beliefs from a clan member's point of view, and gains a new perspective on how Europeans were viewed from the context of an African clan.
+
+<!-- How do texts reflect, represent or form a part of cultural practices? -->
+
+<!-- How does language represent social distinctions and identities? -->
 
 ## Intertextuality
+
+<!-- Talk about The Songlines -->
+
+<!-- In what ways can diverse texts share points of similarity? -->
+<!-- How can texts offer multiple perspectives of a single issue, topic or theme? -->
+Intertextuality deals with the relationship between different texts. In our course, one text that alluded to multiple other texts was *The Songlines* by Bruce Chatwin. In the extract that we used for a practice Paper 2, Chatwin discusses his thoughts about the nature of human restlessness. When offering alternative perpsectives, he alludes to *Pens\@ees*, a work written by the philosopher and mathematician Blaise Pascal, who offers a hypothesis based on philosophy, concluding that human restlessness is a negative characteristic. After expanding on Pascal's explanation, Chatwin offers an alternative perspective based on scientific evidence. By referencing Pascal's work, Chatwin exposes the reader to multiple different intepretations of the topic, allowing for a more nuanced understanding of the issue.
 
 <!--
   Briefly answer the following:
   How do texts adhere to and deviate from conventions associated with literary forms or text types?
   How do conventions and systems of reference evolve over time?
-  In what ways can diverse texts share points of similarity?
   How valid is the notion of a classic text?
-  How can texts offer multiple perspectives of a single issue, topic or theme?
   In what ways can comparison and interpretation be transformative?
 -->
-
-<!-- Write about "The Public Image" where modernist authors were alluded to (and also upload that onto Learner's Portfolio) -->
-
-<!-- Write about Paper 1 practice "The Songlines" and how it alluded to Blaise Pascal's Pensées and the effect it had on the paper -->
 
 ---
 
@@ -100,9 +102,19 @@ Welcome to my portfolio!
 
 ## Identity
 
-<!--
-  Persepolis
--->
+<!-- To what extent is a text an expression of a writer’s identity? Do readers like characters who are thinly veiled versions of themselves? Do strong characters challenge readers to be someone different? By analysing texts, we are really analysing who we are and what we want to become. -->
+
+The IB concept of identity is prevelant in Persepolis, an autobiographical graphic novel detailing Marjane Satrapi's childhood in Iran during and after the Islamic Revolution. The protagonist in the novel is based off of the author, Marjane, and is written in a honest way reflective of people in the real-world. In this way, readers are able to relate with the main character and feel closely connected with them. In addition, the reader is able to see Marjane grow as a person throughout the novel.
+
+<!-- TODO -->
+
+# Image 1
+
+In this panel, Satrapi creates a contrast between religious beliefs and modern beliefs. The panel contains narration, where Satrapi describes her self-conflict about the veil. She discusses how there are two parts of herself which are in conflict with each other: while she is deep down a very religion person, her family was very modern and avant-garde, which means that they favour experimental and unusual ideas. These parts of herself are in conflict because religion is ultimately tied to tradition and is often hesitant to change, rejecting experimental and unusual ideas in favour of traditional ideas.
+
+Satrapi also uses the visual medium of the comic to convey this conflict. The left side of the panel contains gears and tools, symbols that represent science, a subject which is concrete and based on proof and objectivity. In contrast, the right side of the panel contains a very abstract drawing, which is a symbol for religion, a subject which is very abstract and relies on faith and often interpretation. In addition, both of these halves are equal in size, which emphasizes how the narrator was extremely divided about these topics, and didn't know which side of herself she should prefer.
+
+In addition, Satrapi also draws herself wearing two different outfits on the different halves of the panel. On the left side, she draws herself without the veil, representing the modern side of her family. On the right side, she draws herself wearing the veil, representing her side which was very religious. The salient image in this panel is her face, as it is the only part of the image that doesn't change between the two halves. The expression on her face is significant because it doesn't display any visiblly strong emotion, indicating that this conflict is primarily a personal and internal conflict.
 
 ## Culture
 
@@ -144,7 +156,7 @@ Welcome to my portfolio!
 
 ## Culture, identity, and community
 <!--
- 
+
 -->
 
 ## Beliefs, values, and education
