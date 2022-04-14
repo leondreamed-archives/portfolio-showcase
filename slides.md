@@ -14,13 +14,12 @@ fonts:
 
 <div class='text-2xl text-gray-600'>ETS4U7</div>
 <div class='text-6xl font-black'>Portfolio Showcase</div>
-<div class='mt-2 text-gray-600 text-xl'>Insert your own creative title here.</div>
+<div class='mt-2 text-gray-600 text-xl'>English Programming</div>
 <div class='mb-4 mt-2 h-[4px] bg-[rgb(205,166,124)]'></div>
 
 <img src="/assets/levels-of-programming.png" class='border-2 border-gray-500 rounded-md' />
 
 <div class='font-black text-center my-5 font-opensans'>Leon Si</div>
-
 
 ---
 
@@ -110,8 +109,6 @@ Intertextuality deals with the relationship between different texts. In our cour
 
 The IB concept of identity is prevelant in Persepolis, an autobiographical graphic novel detailing Marjane Satrapi's childhood in Iran during and after the Islamic Revolution. The protagonist in the novel is based off of the author, Marjane, and is written in a honest way reflective of people in the real-world. In this way, readers are able to relate with the main character and feel closely connected with them. In addition, the reader is able to see Marjane grow as a person throughout the novel.
 
-<!-- TODO -->
-
 <img class='mx-auto' src='/assets/persepolis-panel.png' width='400' />
 
 # Image 1
@@ -121,6 +118,8 @@ In this panel, Satrapi creates a contrast between religious beliefs and modern b
 Satrapi also uses the visual medium of the comic to convey this conflict. The left side of the panel contains gears and tools, symbols that represent science, a subject which is concrete and based on proof and objectivity. In contrast, the right side of the panel contains a very abstract drawing, which is a symbol for religion, a subject which is very abstract and relies on faith and often interpretation. In addition, both of these halves are equal in size, which emphasizes how the narrator was extremely divided about these topics, and didn't know which side of herself she should prefer.
 
 In addition, Satrapi also draws herself wearing two different outfits on the different halves of the panel. On the left side, she draws herself without the veil, representing the modern side of her family. On the right side, she draws herself wearing the veil, representing her side which was very religious. The salient image in this panel is her face, as it is the only part of the image that doesn't change between the two halves. The expression on her face is significant because it doesn't display any visiblly strong emotion, indicating that this conflict is primarily a personal and internal conflict.
+
+---
 
 ## Culture
 
@@ -136,7 +135,19 @@ In addition, Satrapi also draws herself wearing two different outfits on the dif
   Why do writers write? Why do artists create? How do writers make creative choices to construct meaning? Where does creativity come from? And what’s the reader’s role in creating meaning? Creativity is a defining characteristic of human beings. By analysing works of creativity, we are studying what it means to be human.
 -->
 
-A text we read in our course that is representative of creativity is "The Affair" by
+A text we read in our course that is representative of creativity is "The Affair" by Alan Riddell:
+
+<img src='/assets/the-affair.png' width='300' />
+
+This is a "Poem Without Words"
+
+I think this poem is about a relationship between a man and a woman. I read the poem left to right, top to bottom. Through this method of reading, the speaker initially uses only the letter “i”, which likely refers to the pronoun “i” that represents the speaker alone. In the next line, the speaker introduces a letter “u” in the middle of the line, which likely represents the female that the speaker encounters. In the next few lines, there are many more “u”s which symbolize the female being more present in the speaker’s life. However, near the middle of the poem, the number of “u”s starts to decrease, potentially symbolizing that the female starts becoming more distant from the speaker. Finally, in the last line, there is only the letter “i”s again, likely indicating that the speaker is once again alone and without the woman in her life. Based on the title, it likely represents a short-lived affair between a man and a woman. And when the poem is looked as at a whole, the letter u’s form both a diamond, or a square missing a center (depending on how you look at it). If the shape is interpreted as a square missing a center, this “missing” part of the square could represent a “hole” in the speaker’s life now that the woman has left him. If the shape is interpreted as a diamond, since diamonds generally represent riches, it could possibly mean that the woman, the “u”, was wealthy compared to the speaker, and could be the reason why the woman eventually left him.
+
+Here's my take on a Poem Without Words:
+
+<img src='/assets/rejection.png' width='300' />
+
+---
 
 ## Communication
 <!--
@@ -192,6 +203,8 @@ A text we read in our course that is representative of creativity is "The Affair
 ---
 
 # Course Texts & Authors
+
+<TextTierList />
 
 ## Frankenstein
 
