@@ -1,12 +1,15 @@
 ---
-aspectRatio: '8.5/11'
+theme: ./theme
+aspectRatio: 8.5/11
 defaults:
   layout: portfolio
 fonts:
-  sans: ['Open Sans', 'Economica']
-  weights: '200,400,600,900'
-  serif: 'Robot Slab'
-  mono: 'Fira Code'
+  sans:
+    - Open Sans
+    - Economica
+  weights: 200,400,600,900
+  serif: Robot Slab
+  mono: Fira Code
 ---
 
 <div class='text-2xl text-gray-600'>ETS4U7</div>
@@ -17,6 +20,7 @@ fonts:
 <img src="/assets/levels-of-programming.png" class='border-2 border-gray-500 rounded-md' />
 
 <div class='font-black text-center my-5 font-opensans'>Leon Si</div>
+
 
 ---
 
@@ -108,6 +112,8 @@ The IB concept of identity is prevelant in Persepolis, an autobiographical graph
 
 <!-- TODO -->
 
+<img class='mx-auto' src='/assets/persepolis-panel.png' width='400' />
+
 # Image 1
 
 In this panel, Satrapi creates a contrast between religious beliefs and modern beliefs. The panel contains narration, where Satrapi describes her self-conflict about the veil. She discusses how there are two parts of herself which are in conflict with each other: while she is deep down a very religion person, her family was very modern and avant-garde, which means that they favour experimental and unusual ideas. These parts of herself are in conflict because religion is ultimately tied to tradition and is often hesitant to change, rejecting experimental and unusual ideas in favour of traditional ideas.
@@ -126,7 +132,11 @@ In addition, Satrapi also draws herself wearing two different outfits on the dif
 
 <!--
   The Affair poem, also include my poem I created
+
+  Why do writers write? Why do artists create? How do writers make creative choices to construct meaning? Where does creativity come from? And what’s the reader’s role in creating meaning? Creativity is a defining characteristic of human beings. By analysing works of creativity, we are studying what it means to be human.
 -->
+
+A text we read in our course that is representative of creativity is "The Affair" by
 
 ## Communication
 <!--
