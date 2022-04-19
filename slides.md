@@ -12,14 +12,16 @@ fonts:
   mono: Fira Code
 ---
 
-<div class='text-2xl text-gray-600'>ETS4U7</div>
-<div class='text-6xl font-black'>Portfolio Showcase</div>
-<div class='mt-2 text-gray-600 text-xl'>English Programming</div>
-<div class='mb-4 mt-2 h-[4px] bg-[rgb(205,166,124)]'></div>
+<div class='column justify-center h-full '>
+  <div class='text-2xl text-gray-600'>ETS4U7</div>
+  <div class='text-6xl font-black'>Portfolio Showcase</div>
+  <div class='mt-2 text-gray-600 text-xl'>English Programming</div>
+  <div class='mb-4 mt-2 h-[4px] bg-[rgb(205,166,124)]'></div>
 
-<img src="/assets/levels-of-programming.png" class='border-2 border-gray-500 rounded-md' />
+  <img src="/assets/lion-profile.png" class='border-2 border-gray-500 rounded-md' />
 
-<div class='font-black text-center my-5 font-opensans'>Leon Si</div>
+  <div class='font-black text-center my-5 font-opensans text-6xl'>Leon Si</div>
+</div>
 
 ---
 
