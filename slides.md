@@ -49,7 +49,7 @@ fonts:
 
 # Introduction
 
-Welcome to my portfolio!
+This portfolio showcase is a curation of the various works I have completed throughout Year 1 and Year 2 of IB English. 
 
 ---
 
@@ -99,8 +99,6 @@ Intertextuality deals with the relationship between different texts. In our cour
 The IB concept of identity is prevelant in Persepolis, an autobiographical graphic novel detailing Marjane Satrapi's childhood in Iran during and after the Islamic Revolution. The protagonist in the novel is based off of the author, Marjane, and is written in a honest way reflective of people in the real-world. In this way, readers are able to relate with the main character and feel closely connected with them. In addition, the reader is able to see Marjane grow as a person throughout the novel.
 
 <img class='mx-auto' src='/assets/persepolis-panel.png' width='400' />
-
-# Image 1
 
 In this panel, Satrapi creates a contrast between religious beliefs and modern beliefs. The panel contains narration, where Satrapi describes her self-conflict about the veil. She discusses how there are two parts of herself which are in conflict with each other: while she is deep down a very religion person, her family was very modern and avant-garde, which means that they favour experimental and unusual ideas. These parts of herself are in conflict because religion is ultimately tied to tradition and is often hesitant to change, rejecting experimental and unusual ideas in favour of traditional ideas.
 
