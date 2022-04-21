@@ -15,11 +15,11 @@ fonts:
 <div class='column justify-center h-full '>
   <div class='text-2xl text-gray-600'>ETS4U7</div>
   <div class='text-6xl font-black'>Portfolio Showcase</div>
-  <div class='mt-2 text-gray-600 text-xl'>A culminating curation containing completed class work in English over the past two years.</div>
+  <div class='mt-2 text-gray-600 text-xl'>
+    A culminating curation containing completed class work in English over the past two years.
+  </div>
   <div class='mb-4 mt-2 h-[4px] bg-[rgb(205,166,124)]'></div>
-
   <img src="/assets/lion-profile.png" class='border-2 border-gray-500 rounded-md' />
-
   <div class='font-black text-center my-5 font-opensans text-3xl'>Leon Si</div>
 </div>
 
@@ -147,19 +147,18 @@ A text we read in our course that is representative of creativity is "The Affair
 "The Affair" is an unconventional poem as it is a "Poem Without Words." Yet, it still is able to convey meaning to the reader. Here is my interpretation:
 
 <div class='mt-4'>
-<img src='/assets/the-affair.png' class='float-left mr-5' width='300' />
+  <img src='/assets/the-affair.png' class='float-left mr-5' width='300' />
 
-<p class='!mt-0'>
-I think this poem is about a relationship between a man and a woman. I read the poem left to right, top to bottom. Through this method of reading, the speaker initially uses only the letter “i”, which likely refers to the pronoun “i” that represents the speaker alone. In the next line, the speaker introduces a letter “u” in the middle of the line, which likely represents the female that the speaker encounters. In the next few lines, there are many more “u”s which symbolize the female being more present in the speaker’s life. However, near the middle of the poem, the number of “u”s starts to decrease, potentially symbolizing that the female starts becoming more distant from the speaker. Finally, in the last line, there is only the letter “i”s again, likely indicating that the speaker is once again alone and without the woman in her life. Based on the title, it likely represents a short-lived affair between a man and a woman. And when the poem is looked as at a whole, the letter u’s form both a diamond, or a square missing a center (depending on how you look at it). If the shape is interpreted as a square missing a center, this “missing” part of the square could represent a “hole” in the speaker’s life now that the woman has left him. If the shape is interpreted as a diamond, since diamonds generally represent riches, it could possibly mean that the woman, the “u”, was wealthy compared to the speaker, and could be the reason why the woman eventually left him.
-</p>
+  <p class='!mt-0'>
+    I think this poem is about a relationship between a man and a woman. I read the poem left to right, top to bottom. Through this method of reading, the speaker initially uses only the letter “i”, which likely refers to the pronoun “i” that represents the speaker alone. In the next line, the speaker introduces a letter “u” in the middle of the line, which likely represents the female that the speaker encounters. In the next few lines, there are many more “u”s which symbolize the female being more present in the speaker’s life. However, near the middle of the poem, the number of “u”s starts to decrease, potentially symbolizing that the female starts becoming more distant from the speaker. Finally, in the last line, there is only the letter “i”s again, likely indicating that the speaker is once again alone and without the woman in her life. Based on the title, it likely represents a short-lived affair between a man and a woman. And when the poem is looked as at a whole, the letter u’s form both a diamond, or a square missing a center (depending on how you look at it). If the shape is interpreted as a square missing a center, this “missing” part of the square could represent a “hole” in the speaker’s life now that the woman has left him. If the shape is interpreted as a diamond, since diamonds generally represent riches, it could possibly mean that the woman, the “u”, was wealthy compared to the speaker, and could be the reason why the woman eventually left him.
+  </p>
 </div>
 
 <div class='h-[2px] w-full bg-gray-300 my-4'></div>
 
 <div class='column items-center'>
-Here's my take on a Poem Without Words:
-
-<img src='/assets/rejection.png' width='400' />
+  Here's my take on a Poem Without Words:
+  <img src='/assets/rejection.png' width='400' />
 </div>
 
 ---
@@ -181,24 +180,24 @@ Communcation deals with the connection between readers, writers, and texts.
 Perspective refers to the ability for texts to offer the reader a novel pespective on life. One poem that relates to this concept is "Whispers of Immortality" by T.S. Eliot. Here is an extract from the poem:
 
 <div class='column items-center'>
-<p>
-Donne, I suppose, was such another
-<br/>
-Who found no substitute for sense;
-<br/>
-To seize and clutch and penetrate,
-<br/>
-Expert beyond experience,
-</p>
-<p>
-He knew the anguish of the marrow
-<br/>
-The ague of the skeleton;
-<br/>
-No contact possible to flesh
-<br/>
-Allayed the fever of the bone.
-</p>
+  <p>
+    Donne, I suppose, was such another
+    <br/>
+    Who found no substitute for sense;
+    <br/>
+    To seize and clutch and penetrate,
+    <br/>
+    Expert beyond experience,
+    </p>
+  <p>
+    He knew the anguish of the marrow
+    <br/>
+    The ague of the skeleton;
+    <br/>
+    No contact possible to flesh
+    <br/>
+    Allayed the fever of the bone.
+  </p>
 </div>
 
 In these lines, Eliot discusses how Donne understood death and came to accept it as a part of life, and thus he sought to survive and find his own light in a world of darkness; a world where death is inevitable and is the ultimate end to everyone.
@@ -260,11 +259,15 @@ In addition, blankets are also representative of community. In the same way that
 The theme of justice is prevalent in the book _Frankenstein_ by Mary Shelley. To explore this theme, I created a fictional letter written from the perspective of Alphonse, Victor's father, to Victor about the theme of family/parenting and justice.
 
 <div class='px-8 my-2 text-sm'>
-<p>My dear Victor,</p>
-<div class='leading-snug'>As I lie on my deathbed, with my sorrowful soul clutching onto its remaining hours on earth, I wish to remind you not of my life, but of yours. My time has come, but it need not mark the end of yours. You have a fruitful future ahead of you, Victor, and you must not forget that. You will attend to cheerful days, filled with the wonders of family and the joys of being a parent. Think not of your past, but of your future children, who shall be innocent and helpless creatures bestowed on you by heaven, whom to bring up to good, and whose future lot is in your hands to direct to happiness or misery. Spend not your life brooding thoughts of vengeance against the assassin, but with feelings of peace and gentleness that you may pass onto your creations.</div>
-<div class='leading-snug mt-4'>Oh, Victor, if I had known about our fate before I decided to raise a family, I would still choose our family over loneliness in a heartbeat. There’s a special joy in being a parent that you couldn’t find elsewhere, and not even my present sorrows overpower the wonders I experienced because of you and your siblings. Life is precious, Victor, so dwell not on the past, for the past may render you blind to your future. Cherish your children as you would cherish your family. Let not my tragedies fall upon you as a curse. You must not let past evils trouble you and cause you further destruction, but that you may pass on my blessing to your children which I have wholeheartedly passed on to you, as my son. Do not lay my grief upon the heads of your sons and daughters. You must move on from these misfortunes, for they will only hinder you and pull you down like a chain strung around your ankle. Break free, Victor, of this chain, of this grief, of these miseries, and look forth towards the sunrise in pursuit of a better life.</div>
-<div class='mt-4'>Your father to his son,</div>
-<div class='mt-0'>Alphonse Frankenstein</div>
+  <p>My dear Victor,</p>
+  <div class='leading-snug'>
+    As I lie on my deathbed, with my sorrowful soul clutching onto its remaining hours on earth, I wish to remind you not of my life, but of yours. My time has come, but it need not mark the end of yours. You have a fruitful future ahead of you, Victor, and you must not forget that. You will attend to cheerful days, filled with the wonders of family and the joys of being a parent. Think not of your past, but of your future children, who shall be innocent and helpless creatures bestowed on you by heaven, whom to bring up to good, and whose future lot is in your hands to direct to happiness or misery. Spend not your life brooding thoughts of vengeance against the assassin, but with feelings of peace and gentleness that you may pass onto your creations.
+  </div>
+  <div class='leading-snug mt-4'>
+    Oh, Victor, if I had known about our fate before I decided to raise a family, I would still choose our family over loneliness in a heartbeat. There’s a special joy in being a parent that you couldn’t find elsewhere, and not even my present sorrows overpower the wonders I experienced because of you and your siblings. Life is precious, Victor, so dwell not on the past, for the past may render you blind to your future. Cherish your children as you would cherish your family. Let not my tragedies fall upon you as a curse. You must not let past evils trouble you and cause you further destruction, but that you may pass on my blessing to your children which I have wholeheartedly passed on to you, as my son. Do not lay my grief upon the heads of your sons and daughters. You must move on from these misfortunes, for they will only hinder you and pull you down like a chain strung around your ankle. Break free, Victor, of this chain, of this grief, of these miseries, and look forth towards the sunrise in pursuit of a better life.
+  </div>
+  <div class='mt-4'>Your father to his son,</div>
+  <div class='mt-0'>Alphonse Frankenstein</div>
 </div>
 
 In my RAFT (the name of the assignment), I wanted to explore the theme of family/parenting in Frankenstein. I wanted to touch on the issue of Victor’s lack of proper parenting for the Creature. There seemed to be a great contrast between the familial care Victor had experienced in his childhood with the lack of care he demonstrated towards the Creature. Exploring this contrast highlights Victor’s unfair treatment of him, and how Victor’s grief had rendered him blind to the Creature’s needs for a proper parent and family.
@@ -378,11 +381,15 @@ In addition to the symbol of the shoe, Spiegelman uses the combination of text w
 # Credits & Source Code
 
 <div class='h-full column justify-center'>
-<div class='p-8 border-2 border-gray-300 rounded-md mx-auto'>
-<div class='text-center xx-auto max-w-xl leading-normal'>These slides were created with HTML/CSS by using <a href='https://sli.dev'>https://sli.dev</a>, Presentation Slides for Developers</div>
-<div class='column items-center max-w-xl text-center mx-auto leading-normal'>
-<mdi-github class='text-6xl mt-4 mb-2' />
-<div>The source code for these slides are available at <a href="https://github.com/leonzalion/portfolio-showcase">https://github.com/leonzalion/portfolio-showcase</a></div>
-</div>
-</div>
+  <div class='p-8 border-2 border-gray-300 rounded-md mx-auto'>
+    <div class='text-center xx-auto max-w-xl leading-normal'>
+      These slides were created with HTML/CSS by using <a href='https://sli.dev'>https://sli.dev</a>, Presentation Slides for Developers
+    </div>
+    <div class='column items-center max-w-xl text-center mx-auto leading-normal'>
+      <mdi-github class='text-6xl mt-4 mb-2' />
+      <div>
+        The source code for these slides are available at <a href="https://github.com/leonzalion/portfolio-showcase">https://github.com/leonzalion/portfolio-showcase</a>
+      </div>
+    </div>
+  </div>
 </div>
