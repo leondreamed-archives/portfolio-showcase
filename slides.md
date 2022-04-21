@@ -372,13 +372,23 @@ In addition to the symbol of the shoe, Spiegelman uses the combination of text w
 
 # Advice for Managing Stress & Wellbeing
 
+In my opinion, the best way to manage stress is by creating a concrete plan for your day/week/month using a strategy like Timeblocking. Timeblocking involves dividing your day into chunks of time that are each dedicated to a single task. This way, you give each minute of your day a specific purpose. Timeblocking helps with managing stress because a lot of the stress many people experience comes from the lack of a concrete plan. When you lack a plan, your brain does not trust that you will be able to complete a task or a project, leading to unnecessary stress that negatively impacts your productivity.
+
+As for wellbeing, an idea I have recently o
+
 ---
 
 # Final Reflection - Personal Strengths, Areas for Growth, and Areas _of_ Growth
 
+In English, I find myself to be pretty strong at generating ideas and intepreting texts. During pair discussions in class, I notice that I often come up with many solid ideas after reading texts and I am able to verbally explain to my friend. However, when it comes to writing down these ideas during a Paper 1, I find it much more difficult to brainstorm similar ideas under the tight time constraints of a Paper 1. In addition, I find it difficult in general to motivate myself to write down longform ideas on paper; I prefer to brainstorm and think out loud.
+
+One of my areas _of_ growth in English during the past two years is my public speaking/presentation abilities. During my Choice Board Presentation, I found myself a lot more confident presenting in front of the class (although I still need to work on slowing down my speaking speed). As somebody who is interested in entrepreneurship, mastering public speaking is incredibly crucial as I will need to be able to clearly articulate my ideas as when pitching my ideas to investors and businesses.
+
 ---
 
 # Credits & Source Code
+
+All images used in this presentation are courtesy of their original authors.
 
 <div class='h-full column justify-center'>
   <div class='p-8 border-2 border-gray-300 rounded-md mx-auto'>
