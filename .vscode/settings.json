@@ -1,5 +1,3 @@
 {
-	"markdownlint.ignore": [
-		"slides.md"
-	]
+	"markdownlint.ignore": ["slides.md"]
 }
