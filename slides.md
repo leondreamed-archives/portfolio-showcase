@@ -15,12 +15,12 @@ fonts:
 <div class='column justify-center h-full '>
   <div class='text-2xl text-gray-600'>ETS4U7</div>
   <div class='text-6xl font-black'>Portfolio Showcase</div>
-  <div class='mt-2 text-gray-600 text-xl'>English Programming</div>
+  <div class='mt-2 text-gray-600 text-xl'>A culminating curation containing completed class work in English over the past two years.</div>
   <div class='mb-4 mt-2 h-[4px] bg-[rgb(205,166,124)]'></div>
 
   <img src="/assets/lion-profile.png" class='border-2 border-gray-500 rounded-md' />
 
-  <div class='font-black text-center my-5 font-opensans text-6xl'>Leon Si</div>
+  <div class='font-black text-center my-5 font-opensans text-3xl'>Leon Si</div>
 </div>
 
 ---
@@ -49,15 +49,13 @@ fonts:
 
 # Introduction
 
-This portfolio showcase is a curation of the various works I have completed throughout Year 1 and Year 2 of IB English. 
+Welcome to my portfolio showcase! This portfolio showcase containing curation of the various works I have completed throughout Year 1 and Year 2 of IB English.
 
 ---
 
 # Areas Of Exploration
 
 ## Readers, writers and texts
-
-
 
 <!--
   Briefly answer the following questions:
@@ -69,14 +67,23 @@ This portfolio showcase is a curation of the various works I have completed thro
   How do texts offer insights and challenges?
 -->
 
-
 <!-- Write about How Poems See, How Poems Sound -->
+
+In English class, we listened to Episodes I and II of the CBC Great Poetry Series. Episode I, _How Poems Sound_, discussed how the structure of poems can influence meaning and interpretation. For example, in poetry, there are different meters which can influence the tone of the poem:
+
+**Trochaic**: heavy tone, tends to reflect stuff not about life (e.g. elegy (death and grief))
+\
+**Anapestic**: to hit back (usually threatening)
+\
+**Bacchic**: celebration (waltz, drinking, etc.)
+
+Episode II, _How Poems See_, discuss the use of literary devices like metaphors, similes, and imagery in poems to construct a vivid image in the reader's mind. In this episode, the host discussed a school of poetry that emerged in the 1980s known as Martianism. The point of a lot of these poems was to "make the familiar strange." In addition to Martianism, there was also a movement known as Imagism, which was an attempt to revitalize poetry by avoiding the use of similes, metaphors, symbols, and anything that was complex; the poems would create tension out of the juxtaposing of images.
 
 ## Time and space
 
 <!-- How important is cultural or historical context to the production and reception of a text?​ -->
 
-When reading texts, we need to consider the cultural and historical context in order to better understand the writer's intentions. In our course, a good example of a text that benefits from an understanding of the cultural and historical context is Things Fall Apart. Chinua Achebe wrote *Things Fall Apart* in response to the way European literature depicted African culture, especially in Joseph Conrad's *Heart of Darkness*.
+When reading texts, we need to consider the cultural and historical context in order to better understand the writer's intentions. In our course, a good example of a text that benefits from an understanding of the cultural and historical context is _Things Fall Apart_. In class, we learned that Chinua Achebe wrote _Things Fall Apart_ in response to the way European literature depicted African culture, especially in Joseph Conrad's _Heart of Darkness_.
 
 <!-- To what extent do texts offer insight into another culture? -->
 
@@ -84,7 +91,7 @@ Things Fall Apart also gives the reader insight into African culture from a post
 
 ## Intertextuality
 
-Intertextuality deals with the relationship between different texts. In our course, one text that alluded to multiple other texts was *The Songlines* by Bruce Chatwin. In the extract that we used for a practice Paper 2, Chatwin discusses his thoughts about the nature of human restlessness. When offering alternative perpsectives, he alludes to *Pensées*, a work written by the philosopher and mathematician Blaise Pascal, who offers a hypothesis based on philosophy, concluding that human restlessness is a negative characteristic. After expanding on Pascal's explanation, Chatwin offers an alternative perspective based on scientific evidence. By referencing Pascal's work, Chatwin exposes the reader to multiple different intepretations of the topic, allowing for a more nuanced understanding of the issue.
+Intertextuality deals with the relationship between different texts. In our course, one text that alluded to multiple other texts was _The Songlines_ by Bruce Chatwin. In the extract that we used for a practice Paper 2, Chatwin discusses his thoughts about the nature of human restlessness. When offering alternative perpsectives, he alludes to _Pensées_, a work written by the philosopher and mathematician Blaise Pascal, who offers a hypothesis based on philosophy, concluding that human restlessness is a negative characteristic. After expanding on Pascal's explanation, Chatwin offers an alternative perspective based on scientific evidence. By referencing Pascal's work, Chatwin exposes the reader to multiple different intepretations of the topic, allowing for a more nuanced understanding of the issue.
 
 ---
 
@@ -96,7 +103,7 @@ Intertextuality deals with the relationship between different texts. In our cour
 
 <!-- To what extent is a text an expression of a writer’s identity? Do readers like characters who are thinly veiled versions of themselves? Do strong characters challenge readers to be someone different? By analysing texts, we are really analysing who we are and what we want to become. -->
 
-The IB concept of identity is prevelant in Persepolis, an autobiographical graphic novel detailing Marjane Satrapi's childhood in Iran during and after the Islamic Revolution. The protagonist in the novel is based off of the author, Marjane, and is written in a honest way reflective of people in the real-world. In this way, readers are able to relate with the main character and feel closely connected with them. In addition, the reader is able to see Marjane grow as a person throughout the novel.
+The IB concept of identity is prevelant in Persepolis, an autobiographical graphic novel detailing Marjane Satrapi's childhood in Iran during and after the Islamic Revolution. The protagonist in the novel is based off of the author, Marjane, and is written in a honest way reflective of people in the real-world. In this way, readers are able to relate with the main character and feel closely connected with them. In addition, the reader is able to see Marjane grow as a person throughout the novel. The following panel is one example of how the reader is able to connect with Satrapi:
 
 <img class='mx-auto' src='/assets/persepolis-panel.png' width='400' />
 
@@ -114,31 +121,46 @@ In addition, Satrapi also draws herself wearing two different outfits on the dif
   Things Fall Apart
 -->
 
-Texts can give the reader insight into different cultures. One of the texts we read in class which introduced us to a different culture is "Things Fall Apart" by Chinua Achebe. Throughout this novel, Achebe introduces us to Igbo culture. Within the culture, there are certain gender roles that prevail throughout the novel, especially the role of women in Umuofia.
+Texts can give the reader insight into different cultures. One of the texts we read in class which introduced us to a different culture is "Things Fall Apart" by Chinua Achebe. Throughout this novel, Achebe introduces us to Igbo culture.
 
-In Umuofia, the role of women is to take care of the family. We can see this in Okonkwo’s household, where the women are responsible for looking after the children and cooking the food for the family. In addition, women are portrayed as almost “secondary characters,” as if they’re there to support the male in the family.
+In class, we discussed about Achebe's motivation for writing _Things Fall Apart_. Here are some of the point-form notes I took:
 
-In addition, an interesting gender role reversal is Chielo, who is the priestess of the Oracle of the Hills and Caves. She is the one who the clan listens to for advice, in contrast to the other women who usually rely on the males for advice.
+- Achebe wanted to write Things Fall Apart to describe his people and to highlight the contact between one culture and another.
+- Achebe wanted the story to be “true” even though it’s fiction
+- Achebe had parents who were converts and missionaries
+- He felt that something about the Igbo religion was left out
+- There are universal things that other people can “hit upon” when you told a specific story that relates to a universal theme
+
+Within Igbo culture specifically, there are certain gender roles that prevail throughout the novel, especially the role of women in Umuofia.
+
+In Umuofia, the role of women is to take care of the family. We can see this in Okonkwo’s household, where the women are responsible for looking after the children and cooking the food for the family. Women are portrayed as almost “secondary characters,” as if they’re there to support the male in the family.
 
 In addition, for women, it is their “crown and jewel” to raise a child, whereas for men it is the valour and strength that distinguishes them.
+
+However, an interesting gender role reversal in the novel is Chielo, who is the priestess of the Oracle of the Hills and Caves. She is the one who the clan listens to for advice, in contrast to the other women who usually rely on the males for advice.
 
 ---
 
 ## Creativity
 
-A text we read in our course that is representative of creativity is "The Affair" by Alan Riddell:
+A text we read in our course that is representative of creativity is "The Affair" by Alan Riddell.
+"The Affair" is an unconventional poem as it is a "Poem Without Words." Yet, it still is able to convey meaning to the reader. Here is my interpretation:
 
-<img src='/assets/the-affair.png' width='300' />
+<div class='mt-4'>
+<img src='/assets/the-affair.png' class='float-left mr-5' width='300' />
 
-This is an unconventional poem as it is a "Poem Without Words." Yet, it still is able to convey meaning to the reader. Here is my interpretation:
-
+<p class='!mt-0'>
 I think this poem is about a relationship between a man and a woman. I read the poem left to right, top to bottom. Through this method of reading, the speaker initially uses only the letter “i”, which likely refers to the pronoun “i” that represents the speaker alone. In the next line, the speaker introduces a letter “u” in the middle of the line, which likely represents the female that the speaker encounters. In the next few lines, there are many more “u”s which symbolize the female being more present in the speaker’s life. However, near the middle of the poem, the number of “u”s starts to decrease, potentially symbolizing that the female starts becoming more distant from the speaker. Finally, in the last line, there is only the letter “i”s again, likely indicating that the speaker is once again alone and without the woman in her life. Based on the title, it likely represents a short-lived affair between a man and a woman. And when the poem is looked as at a whole, the letter u’s form both a diamond, or a square missing a center (depending on how you look at it). If the shape is interpreted as a square missing a center, this “missing” part of the square could represent a “hole” in the speaker’s life now that the woman has left him. If the shape is interpreted as a diamond, since diamonds generally represent riches, it could possibly mean that the woman, the “u”, was wealthy compared to the speaker, and could be the reason why the woman eventually left him.
+</p>
+</div>
 
----
+<div class='h-[2px] w-full bg-gray-300 my-4'></div>
 
+<div class='column items-center'>
 Here's my take on a Poem Without Words:
 
-<img src='/assets/rejection.png' width='300' />
+<img src='/assets/rejection.png' width='400' />
+</div>
 
 ---
 
@@ -158,17 +180,26 @@ Communcation deals with the connection between readers, writers, and texts.
 
 Perspective refers to the ability for texts to offer the reader a novel pespective on life. One poem that relates to this concept is "Whispers of Immortality" by T.S. Eliot. Here is an extract from the poem:
 
-<pre>
+<div class='column items-center'>
+<p>
 Donne, I suppose, was such another
+<br/>
 Who found no substitute for sense;
+<br/>
 To seize and clutch and penetrate,
+<br/>
 Expert beyond experience,
-
+</p>
+<p>
 He knew the anguish of the marrow
+<br/>
 The ague of the skeleton;
+<br/>
 No contact possible to flesh
+<br/>
 Allayed the fever of the bone.
-</pre>
+</p>
+</div>
 
 In these lines, Eliot discusses how Donne understood death and came to accept it as a part of life, and thus he sought to survive and find his own light in a world of darkness; a world where death is inevitable and is the ultimate end to everyone.
 
@@ -180,7 +211,7 @@ Eliot talks about how death is a part of life, referring to it as “the fever o
 
 ---
 
-<img src="/assets/whispers-of-immortality-bone.png" />
+<img src="/assets/whispers-of-immortality-bone.png" width='500' class='mx-auto m-4' />
 
 To symbolize Eliot’s depiction of a meaningless world, I’ve drawn a representation of the “fever of the bone.” This image depicts the fever both physically (by having a bone in bed with a thermometer in his mouth), and also metaphorically (with the “love” medicine on top the drawer). The almost-empty container of “love medicine” indicates that it had already been heavily used to no avail. This aligns with the idea that “no contact possible to flesh / allayed the fever of the bone,” as no use of the medicine, in this case, love, would heal the fever of death. I’ve also drawn a clock to symbolize time passing, that this “fever of the bone” occurs throughout our lifetime and is always with us from our birth.
 
@@ -197,6 +228,7 @@ The idea of a meaningless world can also be found in A Doll House by Henrik Ibse
 ---
 
 ## Representation
+
 <!--
   Realist play (Miss Julie?)
 -->
@@ -224,6 +256,7 @@ In addition, blankets are also representative of community. In the same way that
 ---
 
 ## Politics, power, and justice
+
 <!--
 
 -->
@@ -340,7 +373,7 @@ In addition to the symbol of the shoe, Spiegelman uses the combination of text w
 
 ---
 
-# Final Reflection - Personal Strengths, Areas for Growth, and Areas *of* Growth
+# Final Reflection - Personal Strengths, Areas for Growth, and Areas _of_ Growth
 
 ---
 
