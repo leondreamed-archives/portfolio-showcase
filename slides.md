@@ -376,3 +376,13 @@ In addition to the symbol of the shoe, Spiegelman uses the combination of text w
 ---
 
 # Credits & Source Code
+
+<div class='h-full column justify-center'>
+<div class='p-8 border-2 border-gray-300 rounded-md mx-auto'>
+<div class='text-center xx-auto max-w-xl leading-normal'>These slides were created with HTML/CSS by using <a href='https://sli.dev'>https://sli.dev</a>, Presentation Slides for Developers</div>
+<div class='column items-center max-w-xl text-center mx-auto leading-normal'>
+<mdi-github class='text-6xl mt-4 mb-2' />
+<div>The source code for these slides are available at <a href="https://github.com/leonzalion/portfolio-showcase">https://github.com/leonzalion/portfolio-showcase</a></div>
+</div>
+</div>
+</div>
