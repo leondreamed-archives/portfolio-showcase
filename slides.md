@@ -279,8 +279,6 @@ Through the use of symbols, the combination of text and images, and the position
 
 In this graphic text, Art Spiegelman uses symbols, the combination of text and images, and the position and size of the panels to express different American responses to the 9/11 attacks. The symbol of a shoe is prevalent through this text, and it is representative of how loud and controversial news and/or events are considered “normal,” whereas quieter and less controversial events are less well-received. In the comic about the shoe, the noise from dropping the initial shoe doesn’t receive any attention, indicating that it is the expectation. However, when the man silently puts down his other shoe, we can see that the other people in the house are furious with him, expecting him to drop the other shoe. The symbol of the shoe is then repeated at the bottom of the text, where a giant shoe created by “Jihad brand footware” is falling on a crowd of people. In one interpretation, this shoe represents an inevitable event that is expected from the public, which is supported by the series of panels from the right where somebody is worried about a new disaster. This emphasizes how the 9/11 attacks created panic and worry after they occurred.
 
----
-
 In addition to the symbol of the shoe, Spiegelman uses the combination of text with the images to better introduce certain ideas. In the panel about the news, he uses the text to provide context for the non-sequitur panels. Through this mini-comic, Spiegelman criticizes the news for failing to depict the event in its true nature. In the last panel, we can see a man staring at the television filled with the US flag and failing to notice the plane crashing into the plane. This is symbolic of how the news fails to properly depict the event.
 
 ---
@@ -296,16 +294,6 @@ In addition to the symbol of the shoe, Spiegelman uses the combination of text w
 # Course Texts & Authors
 
 <TextTierList />
-
-## Frankenstein
-
-## Persepolis
-
-## Miss Julie
-
-## Othello
-
-## Things Fall Apart
 
 ---
 
