@@ -165,13 +165,18 @@ A text we read in our course that is representative of creativity is "The Affair
 
 ## Communication
 
-Communcation deals with the connection between readers, writers, and texts.
+Communication deals with the connection between readers, writers, and texts. In Mary Shelley's _Frankenstein_, Mary Shelley alludes to Milton's poem, "Paradise Lost," which discusses Adam and Eve's fall from grace after eating the Forbidden Fruit. We had an opportunity in class to discuss the relationship between Adam, Victor and the Creature, and here were some of the points I brought up:
 
-<!--
-  Connection between readers, writers, and texts
+**Does Adam best resemble Victor or the Creature? Explain.**
 
-  Penelopiad
--->
+Even though Adam and the Creature were both created by a creator, their circumstances are quite different. The Creature initially did nothing wrong to get rejected by society, whereas Adam had disobeyed God and thus was punished because of it. Thus, I believe it’s more appropriate to compare Adam to Victor.
+
+Adam laments his decision to accept the terms of Paradise, as he says that he should have been refused
+the terms of Paradise. As he accepted it, it would be unreasonable for him to enjoy Paradise and then make objections towards the conditions that came with it. In the same way, we can make a connection in Frankenstein with Paradise representing life and Adam representing Victor. Victor had foolishly played with life for his own interest. He had dismissed the conditions that came with the power to bestow life. When it didn’t turn out the way he wanted, it was unreasonable of him to simply shrug it off without dealing with the consequences of his careless actions. Just like how Adam regrets accepting the terms of Paradise, Victor now regrets accepting the implicit terms that came with bestowing life, as he refuses to share the secret to life with Walton which led to his “destruction and infallible misery.” (Shelley 35)
+
+Another similarity between Victor and Adam is that they both wish for death to be their punishment. Adam wishes for God to punish him by turning him back into dust. He is angry at God that his death will not suffice as his punishment. In Frankenstein, we also see Victor wishing for his death. During the time he was imprisoned on the island after being convicted of Clerval’s murder, he asks himself: “Why did I not die? More miserable than man ever was before, why did I not sink into forgetfulness and rest?” (Shelley 145) Victor mentions how it was unfair for death to snatch away the lives of innocent kids but it refused to take away the life of somebody as miserable as he was. Likewise, Adam believes that somebody deserving of punishment as him should be subject to death instead of a punishment involving the suffering of other innocent people.
+
+We can notice a resemblance between Adam and the forbidden fruit and Victor and the forbidden knowledge: the knowledge of creating life. In Paradise Lost, Adam laments his situation as his sins cause others to suffer, saying “Who of all ages to succeed, but, feeling the evil on him brought by me, will curse my head? Ill fare our ancestor impure, for this we may thank Adam!” Adam feels that he would be blamed by his ancestors for their punishment brought on by his sins. We can see Victor feeling the same guilt as Adam, blaming himself for all the crimes that the monster committed. Similar to Adam, Victor felt guilty for the consequences that would befall humankind for having created the Creature, and he “felt that [he] has no right to share [man’s] [company] ... they would, each and all, abhor [him] and hunt [him] from the world did they know ... the crimes which had their source in [him]!” (Shelley 152). Both Adam and Victor feel guilty for their sins and feel like they should take full responsibility for the evil that they have brought upon other innocent people.
 
 ---
 
@@ -220,17 +225,94 @@ The idea of a meaningless world can also be found in A Doll House by Henrik Ibse
 
 ## Transformation
 
-<!--
-  A Doll's House
--->
+One of the texts that demonstrates transformation is the short story _Ligeia_ written by Edgar Allan Poe. In Grade 11, I wrote an essay about the relationship between the narrative voice in _Ligeia_ and the Transformation of Inner Thought into Outward Action:
+
+<div class='text-[1rem]'>
+<p class='text-center'>The Narrative Voice in Ligeia and the Transformation of Inner Thought into Outward Action</p>
+
+Edgar Allen Poe wrote Ligeia using a first-person narrative, where the narrator tells the reader the story of Lady Ligeia from his perspective. The narrator writes about events that took place many years in the past, recalling them from his limited memory. Since he presents himself as an opium addict during the course of the story, he establishes himself as an unreliable narrator. Poe uses an unreliable narrator in many of his short stories, and in Ligeia, the narrator’s lack of credibility widens the possible interpretations of his story. One such interpretation is the message of transformation from inner thought into outward action. Inner thoughts would be limited to the narrator’s mind which have no physical representation. For these thoughts to transform into outward actions, they must lead to events or consequences that occur outside of the narrator’s mind. In Ligeia, Poe explains how inner thought transforms into outward actions by using a first-person narrative voice to emphasize the impact of the narrator’s emotions on his decisions, the consequences of his determination, and his distorted perception of reality.
+
+By telling the story from his perspective, the narrator gives the reader a deeper insight into his thoughts and emotions. The reader is able to observe their influence on his actions. After Ligeia’s death, the narrator moves out of his old city, unwilling to live in constant reminder of his sorrows. He buys an abbey with a gloomy appearance, noting that it “had much in unison with [his] feelings of utter abandonment” (Poe 7). The reader is able to observe how his sorrowful emotions transform into action as they compel him to move to a remote and isolated location in England. These emotions also cause him to depend on opium. Opium is a drug primarily used to suppress pain and can also have the effect of enhancing the mood of the user (Encyclopædia Britannica). The narrator likely turns to opium hoping it would subdue his feelings of grief. Unfortunately, opium is an addictive drug, producing withdrawal symptoms that can only be alleviated by its continued use (Encyclopædia Britannica). The narrator mentions how he becomes “a bounden slave in the trammels of opium” (Poe 8). His attempt to escape his sorrowful emotions only transforms him into a slave of the drug. Yet, despite his efforts, his thoughts for Ligeia remain ever-present and his attempts to evade them only seem to strengthen his determination for her existence.
+
+Throughout the story, the narrator constantly mentions Ligeia, demonstrating his inability to forget about her and his determination for her to live. During his marriage with Lady Rowena and while under the influence of opium, he calls upon Ligeia’s name as if “[he] could restore her to the pathway she had abandoned” (Poe 10). It seems as though the narrator succeeds in his goal. Although it is not explicitly mentioned, the unique narrative voice of Ligeia enables the reader to infer that it is the narrator’s thoughts of Ligeia that ultimately give life to Rowena’s corpse. The narrator uses an anaphora to create this subtle correlation as he recounts how “again [he] sunk into visions of Ligeia --and again, ... again there reached [his] ears a low sob from the region of the ebony bed” (Poe 13). After Rowena’s death, every time the narrator starts thinking about Ligeia, he notices Rowena’s body exhibiting signs of life, eventually resulting in her resurrection as Lady Ligeia. His inability to recover from Ligeia’s death and his ever-growing determination for her to live seems to transform into the outward action of her resurrection.
+
+</div>
+
+<p class='text-center'>Continued on the next page...</p>
+
+---
+
+<div class='text-[1rem]'>
+
+Although it is likely that the events leading up to Ligeia’s resurrection are only hallucinations induced by the narrator’s use of opium, the narrator is ultimately unable to distinguish them from reality. Opium is known to cause visual, auditory, and even tactile hallucinations (ECRI). The narrator’s hallucinations are intense enough to evoke physical reactions. When the narrator witnesses color rushing back into Rowena’s corpse, he “chafe[s] and bathe[s] [its] temples and [its] hands” (Poe 13). His hallucinations appear so convincing to him that they compel him to take action. The narrator also occasionally inserts remarks from the present as he narrates his story, a unique element only found in a first-person narrative. When he writes about the sobs from the bed of Rowena’s corpse, he notes in his writing: “(what marvel that I shudder while I write)” (Poe 13). This remark is given from his present perspective as he reflects on past events. His hallucinations were so intense that they evoke a physical response (his shuddering) even when he reflects on them. The strongest example of how thought transforms into outward action is displayed by the narrator's inability to distinguish between his hallucinations and reality. Through his first-person narrative voice, he reflects on this uncertainty during the time when Rowena was about to drink the cup of wine. The narrator writes that “[he] may have dreamed that [he] saw” ruby-coloured drops fall into the cup, but he considered them at the time likely “the suggestion of a vivid imagination, rendered morbidly active by the terror of the lady, by the opium, and by the hour” (Poe 11). The narrator acknowledges that his perceptions may have been altered by opium. However, he is still unsure whether the events were a hallucination or not, using words like “may have” in his narrative to indicate his uncertainty. This failure to distinguish between reality and imagination leads to an outward action, as the narrator feels compelled to write out the story of Ligeia in the way he remembers it. Since he cannot discern reality from his hallucinations, he writes out the story of Ligeia without this distinction. This distortion of perception that resulted from his thoughts and passions about Ligeia transformed into the outward action of his writing that the reader can physically observe outside his mind through his first-person account of events.
+
+In conclusion, Poe successfully explains how inner thought and motivation can result in outward action through the narrative voice in Ligeia. The first-person narrative voice reveals how the narrator’s thoughts influence his actions, how his determination leads to physical consequences, and how his emotions alter his perception of reality. Although the story of Ligeia is largely fictional, the transformation of thought into outward action is present in our everyday lives. Inner thought and motivation may not be enough to resurrect the dead, but they do exhibit the power to overcome obstacles and the power to achieve goals as they transform from ideas into reality.
+
+</div>
 
 ---
 
 ## Representation
 
-<!--
-  Realist play (Miss Julie?)
--->
+Representation deals with how fictional characters can represent reality. I touched on this topic in my individual oral, where I got to refer to Othello and Miss Julie, two fictional works, to explore the global issue of how people in seemingly powerless positions are able to exploit their preferred race and gender to gain power over those in higher positions by influencing their thoughts and actions. Here were some of my bullet points in reference to Othello:
+
+<div class='text-sm'>
+- Highest-ranked general, Othello, is tricked by lowest-ranking ensign, Iago, into falsely thinking that his wife is cheating on him
+<br />
+- In this play, Iago leverages his preferred race & the perpetuated racism towards Othello to gain significant influence over Othello's thoughts and actions
+<br />
+- In my chosen passage, Iago is convincing Othello of Desdemona’s infidelity
+<br />
+- In this conversation, Iago has more power, as seen by the em dash on line 3 that indicates that he cuts off Othello
+<br />
+- This power comes from earlier in the scene, where Iago claimed that because both he and Desdemona were Venetian = he knew things about Desdemona that Othello didn’t
+<br />
+- Iago exploits his race to gain credibility, causing Othello to believe his claims about Desdemona simply on the basis of his race
+<br />
+- Through this credibility, Iago starts getting Othello to doubt Desdemona’s loyalty.
+<br />
+- In lines 1 and 3, Othello uses a nature metaphor to describe his doubts, stating “I do not think but Desdemona’s honest / And yet, how nature erring from itself—”
+<br />
+- Reference to how good things in nature can sometimes go bad
+<br />
+- Nature is a metaphor for Desdemona’s loyalty
+<br />
+- Othello is afraid she might veer away from her loyal nature
+<br />
+- Iago twists Othello’s definition of Desdemona’s nature; claims Desdemona’s true nature is to be loyal to those of her own race
+<br />
+- Lines 5 to 7: Desdemona refused those “Of her own clime, complexion, and degree, / Whereto we see in all things nature tends.”
+<br />
+- Allusion: animals are attracted to those of their own species
+<br />
+- implies that Othello is of an incompatible “species” for Desdemona due to his skin colour.
+<br />
+- Also seen in other parts of the play through animal imagery that evokes disgust, e.g. “a daughter covered with a Barbary horse” or Othello as “an old black ram tupping [a] white ewe.”
+<br />
+- By maliciously associating Othello’s race with nature, Iago is able to establish Othello’s relationship with Desdemona is “unnatural”
+<br />
+- line 19, where Othello regrets marrying Desdemona, is evidence that this racism influences Othello’s thoughts
+<br />
+- In addition to nature, Iago implies Othello’s race is less attractive, saying in line 13 that Desdemona would “fall to match [Othello] with her country forms”
+<br />
+- This racist stereotype is prevalent throughout the play, e.g. Barbantio telling Othello that Desdemona would never “run from her guardage to the sooty bosom / Of such a thing as thou, to fear, not to delight.”
+<br />
+- “sooty” relates Othello’s skin colour to that of dirt, which is universally associated with filth and disgust
+<br />
+- This racist association with ugliness fills Othello with self-doubt: in line 40, Othello says to himself  “Haply, for I am black,” as a reason for Desdemona’s infidelity, implying that having black skin is a negative characteristic.
+<br />
+- This self-doubt is symbolized through Iago’s stage actions
+<br />
+- Thoughts of self-doubt repeatedly enter and exit our minds, just like Iago repeatedly entering and exiting the scene
+<br />
+- Iago also constantly switches between telling Othello not to worry about it, and telling Othello to stay wary
+<br />
+- This constant resurfacing of self-doubts is what wears Othello down, who by the end of the scene can be arguing with himself and filled with anger and jealousy
+<br />
+- In his rage, he gives Iago the powerful role of lieutenant
+<br />
+Othello’s sudden grant of power to Iago highlights the global issue of how despite Iago’s originally low ranking, Iago is able to exploit his preferred race as a Venetian and leverage the racism towards Othello perpetuated throughout the play to successfully gain power over Othello’s thoughts and convince him of Desdemona’s infidelity.
+</div>
 
 ---
 
@@ -251,6 +333,16 @@ In addition, blankets are also representative of community. In the same way that
 ---
 
 ## Beliefs, values, and education
+
+In Grade 11, I participated in a "round table discussion" about the novel _Frankenstein_ by Mary Shelley. One of the points which I debated in the discussion related to the beliefs and values of each character and relating that to a justification about whether or not the characters could be classified as "right" or "wrong."
+
+**\*Is any one character “right” or “wrong”?**
+
+To answer the question, it makes sense to first define what “right” and “wrong” mean. I would like to define “right” as “being morally good, justified, or acceptable,” and “wrong” as the opposite, or “failing to be morally good, justified, or acceptable.” It’s very difficult to associate an entire character with being “morally good,” since a character can make “right decisions” and “wrong decisions,” and even then, it’s not as straightforward as saying “if a character makes more “right” decisions than “wrong” decisions, then he is a “right” character.” Rather, it makes more sense to associate morals with a character’s actions.
+
+In Paradise Lost, the action in focus is God’s punishment towards Adam for his disobedience. On one hand, we can argue that punishing Adam for his sins is morally right, since God had given Adam paradise and gave him one simple rule that he deliberately disobeyed. However, we could also justify that God’s punishment was morally wrong since it was God who chose to put the temptation of the forbidden fruit in the first place, and that it’s morally unacceptable for God to punish Adam for a sin that God deliberately made possible in the first place.
+
+We can also see this blur between “right” and “wrong” in Frankenstein, where we see Victor’s desire to kill his monster for his crimes. It’s easy to argue that it’s morally right since Victor believes that it would be best for the creature to die before he causes any harm to other humans. However, one can also argue that the creature’s circumstances, established by Victor, forced him into his crime, and thus it wouldn’t be acceptable to take away his life because of the faults that Victor had built into his nature. It’s hard to definitively draw the line of Victor’s actions as being clearly “right” or “wrong,” and doing so has many grander implications beyond this small example. Thus, the actions of a character can both be “right” and “wrong” depending on the perspective and moral values of the judge. In either case, a character’s actions doesn’t make them necessarily a “moral” or an “immoral” character. Thus, we cannot say that any one character is “right” or “wrong,” but we can argue for their actions being “right” or “wrong,” both of which are possible simultaneously under different perspectives.
 
 ---
 
@@ -298,6 +390,18 @@ In addition to the symbol of the shoe, Spiegelman uses the combination of text w
 
 ## Science, technology, and the environment
 
+For my Choice Board presentation, I presented about the global issue of the Dependence on Technology & Disconnect from Reality in reference to Ray Bradbury's short story _The Veldt_. Here are my slides from the presentation (continues on next page):
+
+<img src='/assets/choice-board-slides/slide1.jpg' width='600' class='mx-auto'>
+<img src='/assets/choice-board-slides/slide2.jpg' width='600' class='mx-auto'>
+<img src='/assets/choice-board-slides/slide3.jpg' width='600' class='mx-auto'>
+
+---
+
+<img src='/assets/choice-board-slides/slide4.jpg' width='600' class='mx-auto'>
+<img src='/assets/choice-board-slides/slide5.jpg' width='600' class='mx-auto'>
+<img src='/assets/choice-board-slides/slide6.jpg' width='600' class='mx-auto'>
+
 <!--
 
 -->
@@ -344,23 +448,75 @@ In addition to the symbol of the shoe, Spiegelman uses the combination of text w
 
 ### Drama
 
-<!-- TODO: 3 terms -->
+**Aside**: Words spoken by an actor directly to the audience, but not "heard" by the other characters
+on stage during a play.
+**Dramatic Irony**: A device in which a character holds a position or has an expectation reversed or fulfilled in a way that the character did not expect but that the audience or readers have anticipated because their knowledge of events or individuals is more complete than the
+character’s.
 
 ### Fiction
 
-<!-- TODO: 3 terms -->
+**Characterization**:
+**Plot**:
 
 ### Non-fiction
 
-<!-- TODO: 3 terms -->
+#### Pathos
+
+Appealing to emotion to draw out feelings like pity or anger.
+\
+**Example:** "If we don't move soon, we're all going to die! Can't you see how dangerous it would be to stay?"
+
+#### Rhetorical question
+
+A question asked in order to create dramatic effect or to make a point rather than to receive an answer.
+**Example:** ''Must I argue the wrongfulness of slavery? Is that a question for republicans? Is it to be settled by the rules of logic and argumentation, as a matter beset with great difficulty, involving a doubtful application of the principle of justice, hard to understand?`` (Frederick Douglass, "What to the Slave Is the Fourth of July?" July 5, 1852)
 
 ### Poetry
 
-<!-- TODO: 3 terms -->
+#### Rhyme
+
+The repetition of syllables (typically) at the end of a line.
+
+**Example:**
+
+#### Enjambment
+
+The continuation of a sentence or phrase from one line to the next.
+
+**Example**
 
 ---
 
 # Literary Devices & Features
+
+**Epanalepsis**
+\
+The beginning of a clause is repeated at the end of that same clause/sentence.
+\
+**Example:** I, to the peers assembled, shall propose / The firm resolve, I here in few disclose.
+<br/>
+
+**Hyperbaton**
+\
+In inversion of the expected order of words, usually used for emphasis.
+\
+**Example:** Anger, fear, aggression; the dark side of the Force are they. Easily they flow, quick to join you in a fight.
+
+**Isocolon**
+\
+A sentence containing a parallel structure formed by the repetition of clauses with a similar number of syllables.
+\
+**Example:** The bigger they are, the harder they fall.
+<div class='mx-auto'>
+<h2 class='text-center'>Literary Features</h2>
+
+Examples of Literary Features in the short story _Ligeia_ by Edgar Allen Poe:
+
+<div class='column gap-5 mx-auto'>
+<img src='/assets/short-story-slides/slide1.jpg' width='600' />
+<img src='/assets/short-story-slides/slide2.jpg' width='600' />
+</div>
+</div>
 
 <!-- TODO: 3 devices -->
 
