@@ -524,6 +524,36 @@ Examples of Literary Features in the short story _Ligeia_ by Edgar Allen Poe:
 
 # Additional Resources
 
+## Anki
+
+Anki is an application that helps you memorize terms more effectively using a strategy known as spaced repetition. I highly recommend it whenever you need to memorize lots of terms (such as English vocabulary).
+
+**Link:** https://apps.ankiweb.net
+
+## Thomas Frank / College Info Geek
+
+Thomas Frank is responsible for kickstarting my interest in productivity and self-improvement. He has a ton of YouTube videos associated with studying more effectively that I highly recommend!
+
+**Link:** https://collegeinfogeek.com
+
+## Scott H. Young / Ultralearning
+
+Scott Young is the author of a book about Ultralearning, a strategy for intense and self-directed learning. Ultralearning has been at the heart of many of my learning projects throughout the past four years that have endowed me with valuable skills.
+
+**Link:** https://scotthyoung.com
+
+## The Motivation Hacker
+
+_The Motivation Hacker_ is a book written by the incredible Nick Winter, a motivation mastermind. This was one of the books that have inspired some of my craziest personal challenges, and I highly recommend giving it a read for inspiration.
+
+**Link:** https://www.nickwinter.net/the-motivation-hacker
+
+## My Blog (coming soon<sup>TM</sup>)
+
+I've been wanting to start a blog for a while now (fun fact: I started a blog in Grade 9 which lasted 6 months before I discontinued it). I have a lot of unconventional ideas when it comes to topics like productivity and fulfillment in life that (as of now) only my friends currently know about. And sometimes, I use my programming skills to build experimental projects related to these ideas. I would love to share these ideas and projects with the world, and with a month left before IB ends, I'll have time to re-continue writing blog posts about my ideas.
+
+**Link:** https://blog.leonzalion.com
+
 ---
 
 # Advice for Managing Stress & Wellbeing
