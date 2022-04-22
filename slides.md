@@ -451,7 +451,7 @@ It's also important to remember to quote the text as much as possible to support
 
 ## Vocabulary Associated with Each Literary Form
 
-<div class='mt-2'></div>
+<div class='mt-5'></div>
 
 ### Drama
 
@@ -460,6 +460,8 @@ on stage during a play.
 
 **Dramatic Irony:** A device in which a character holds a position or has an expectation reversed or fulfilled in a way that the character did not expect but that the audience or readers have anticipated because their knowledge of events or individuals is more complete than the
 character’s.
+
+<div class='mt-5'></div>
 
 ### Fiction
 
@@ -473,6 +475,8 @@ character’s.
 4. Falling Action: The story starts to slow down and conflicts begin to become resolved.
 5. Denouement: The end of the story where loose ends are tied up.
 
+<div class='mt-5'></div>
+
 ### Non-fiction
 
 **Pathos:** Appealing to emotion to draw out feelings like pity or anger.
@@ -482,6 +486,8 @@ _Example:_ "If we don't move soon, we're all going to die! Can't you see how dan
 **Rhetorical question:** A question asked in order to create dramatic effect or to make a point rather than to receive an answer.
 
 _Example:_ "Must I argue the wrongfulness of slavery? Is that a question for republicans? Is it to be settled by the rules of logic and argumentation, as a matter beset with great difficulty, involving a doubtful application of the principle of justice, hard to understand?" (Frederick Douglass, "What to the Slave Is the Fourth of July?" July 5, 1852)
+
+---
 
 ### Poetry
 
