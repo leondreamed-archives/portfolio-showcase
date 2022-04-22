@@ -41,9 +41,8 @@ fonts:
 12. Vocabulary Associated with Each Literary Form
 13. Literary Devices & Features
 14. Additional Resources
-15. Paper 1 Samples
-16. Advice for Managing Stress & Wellbeing
-17. Final Reflection
+15. Advice for Managing Stress & Wellbeing
+16. Final Reflection
 
 ---
 
@@ -416,7 +415,13 @@ For my Choice Board presentation, I presented about the global issue of the Depe
 
 # Paper 1 Basics
 
-<!-- Effective strategies for Paper 1? -->
+In the HL English Paper 1 exam, you are given 2 hours and 15 minutes to write a guided analysis on two texts. The texts will be of different literary types, including poems, fiction, non-fiction, and extracts from plays.
+
+Based on my experience on the Paper 1 practice exams that we've written in class, it's incredibly important to start writing _as soon as possible._ The time constraint on this exam is extremely tight, and if you spend too much time trying to analyze the passage, you'll run out of time before you can flush out your ideas. Thus, I find it better to analyze the text as I go instead of analyzing it ahead of time and organizing my ideas.
+
+In addition, a strategy that I've found useful when writing Paper 1 exams is to leave a blank space after every paragraph. This is so that if you ever have more ideas that you end up thinking about later, you'll be able to use the extra space to insert those ideas.
+
+It's also important to remember to quote the text as much as possible to support your claims. You need to provide evidence from the extract in order to gain full marks for your analysis. One useful question to ask yourself whenever you're analyzing a text is "why did the author use these specific words/wording?"
 
 ---
 
@@ -446,44 +451,65 @@ For my Choice Board presentation, I presented about the global issue of the Depe
 
 ## Vocabulary Associated with Each Literary Form
 
+<div class='mt-2'></div>
+
 ### Drama
 
-**Aside**: Words spoken by an actor directly to the audience, but not "heard" by the other characters
+**Aside:** Words spoken by an actor directly to the audience, but not "heard" by the other characters
 on stage during a play.
-**Dramatic Irony**: A device in which a character holds a position or has an expectation reversed or fulfilled in a way that the character did not expect but that the audience or readers have anticipated because their knowledge of events or individuals is more complete than the
+
+**Dramatic Irony:** A device in which a character holds a position or has an expectation reversed or fulfilled in a way that the character did not expect but that the audience or readers have anticipated because their knowledge of events or individuals is more complete than the
 character’s.
 
 ### Fiction
 
-**Characterization**:
-**Plot**:
+**Characterization:** The methods the author uses to reveal a "character" to a reader (e.g. their values, beliefs, goals, etc.) Can be direct (a fact explicitly given about a character such as "they are tall") or indirect (an action/attribute that implicitly characterizes a character, such as "his friend needed to look up to make eye contact with him" -> implies the friend is tall).
+
+**Plot:** The sequence of events and actions that make up a story. Typically consists of the following 5 parts:
+
+1. Exposition: The beginning where characters/setting is introduced
+2. Rising action: The main character experiences a series of events which build up to a major conflict (the climax).
+3. Climax: The peak of the story where the main character faces a major conflict.
+4. Falling Action: The story starts to slow down and conflicts begin to become resolved.
+5. Denouement: The end of the story where loose ends are tied up.
 
 ### Non-fiction
 
-#### Pathos
+**Pathos:** Appealing to emotion to draw out feelings like pity or anger.
 
-Appealing to emotion to draw out feelings like pity or anger.
-\
-**Example:** "If we don't move soon, we're all going to die! Can't you see how dangerous it would be to stay?"
+_Example:_ "If we don't move soon, we're all going to die! Can't you see how dangerous it would be to stay?"
 
-#### Rhetorical question
+**Rhetorical question:** A question asked in order to create dramatic effect or to make a point rather than to receive an answer.
 
-A question asked in order to create dramatic effect or to make a point rather than to receive an answer.
-**Example:** ''Must I argue the wrongfulness of slavery? Is that a question for republicans? Is it to be settled by the rules of logic and argumentation, as a matter beset with great difficulty, involving a doubtful application of the principle of justice, hard to understand?`` (Frederick Douglass, "What to the Slave Is the Fourth of July?" July 5, 1852)
+_Example:_ "Must I argue the wrongfulness of slavery? Is that a question for republicans? Is it to be settled by the rules of logic and argumentation, as a matter beset with great difficulty, involving a doubtful application of the principle of justice, hard to understand?" (Frederick Douglass, "What to the Slave Is the Fourth of July?" July 5, 1852)
 
 ### Poetry
 
-#### Rhyme
+**Rhyme:** The repetition of syllables (typically) at the end of a line.
 
-The repetition of syllables (typically) at the end of a line.
+_Example:_
 
-**Example:**
+<div>
+<img src='/assets/rhyme.png' height='300' />
+</div>
 
-#### Enjambment
+<div class='text-sm mt-2'>Lines 1-5 of <em>The Wasps' Nest</em> by James L. Rosenberg</div>
 
-The continuation of a sentence or phrase from one line to the next.
+**Enjambment:** The continuation of a sentence or phrase from one line to the next.
 
-**Example**
+_Example:_
+
+<div class='font-serif'>
+"next to of course god america i
+<br/>
+love you land of the pilgrims' and so forth oh
+<br/>
+say can you see by the dawn's early my
+<br/>
+country 'tis of centuries come and go
+</div>
+
+<div class='text-sm mt-2'>Lines 1-4 of <em>next to of course god america i</em> by E. E. Cummings</div>
 
 ---
 
@@ -507,6 +533,7 @@ In inversion of the expected order of words, usually used for emphasis.
 A sentence containing a parallel structure formed by the repetition of clauses with a similar number of syllables.
 \
 **Example:** The bigger they are, the harder they fall.
+
 <div class='mx-auto'>
 <h2 class='text-center'>Literary Features</h2>
 
@@ -548,7 +575,7 @@ _The Motivation Hacker_ is a book written by the incredible Nick Winter, a motiv
 
 **Link:** https://www.nickwinter.net/the-motivation-hacker
 
-## My Blog (coming soon<sup>TM</sup>)
+## My Blog (coming soon)
 
 I've been wanting to start a blog for a while now (fun fact: I started a blog in Grade 9 which lasted 6 months before I discontinued it). I have a lot of unconventional ideas when it comes to topics like productivity and fulfillment in life that (as of now) only my friends currently know about. And sometimes, I use my programming skills to build experimental projects related to these ideas. I would love to share these ideas and projects with the world, and with a month left before IB ends, I'll have time to re-continue writing blog posts about my ideas.
 
