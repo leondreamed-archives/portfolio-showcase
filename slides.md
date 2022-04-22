@@ -33,38 +33,38 @@ fonts:
 4. Fields of Inquiry
 5. Course Texts & Authors
 6. Paper 1 Basics
-7. Literary Forms Overview
-8. Drama Examples
-9. Fiction Examples
-10. Non-fiction Examples
-11. Poetry Examples
-12. Vocabulary Associated with Each Literary Form
-13. Literary Devices & Features
-14. Additional Resources
-15. Advice for Managing Stress & Wellbeing
-16. Final Reflection
+7. Literary Forms Overview + Examples
+8. Vocabulary Associated with Each Literary Form
+9. Literary Devices & Features
+10. Additional Resources
+11. Advice for Managing Stress & Wellbeing
+12. Final Reflection
 
 ---
 
 # Introduction
 
-Welcome to my portfolio showcase! This portfolio showcase containing curation of the various works I have completed throughout Year 1 and Year 2 of IB English.
+Welcome to my portfolio showcase! This portfolio showcase is a curation of the various works I have completed throughout Year 1 and Year 2 of IB English ranging from your typical text analysis to drawings and fictional letters.
+
+> Fun fact, this portfolio showcase was created using code! (The link to the source code can be found on the last page.) Now that I've found a way to use programming to complete an English assignment, I have successfully completed my personal challenge of incorporating programming into every academic subject! :)
+
+My relationship with English is a bit complicated. As somebody who's planning on pursuing software development (if it wasn't already obvious), English isn't exactly the subject that first comes to mind as a skill you want to have, as indicated by this humorous quote I stumbled across one day:
+
+"Throughout my academic career, I'd given some pretty good talks. But being considered the best speaker in the Computer Science department is like being known as the tallest of the Seven Dwarfs." — _The Last Lecture_, a book by Jeffrey Zaslow and Randy Pausch
+
+However, in addition to software development, I'm also planning on pursuing entrepreneurship, and a crucial skill that entrepreneurs need is communication. Entrepreneurs need to be able to effectively express their ideas and visions for their company to potential investors or customers, and fluency in English plays a large role with this.
+
+Typically, communication (especially when it comes to presentations and public speaking) hasn't been my strongest area, and that's why it's been my main area of focus throughout the last four years of English courses.
+
+Of course, communication doesn't just include verbal communication, but also written communication, which composes the majority of my work showcased in this learner's portfolio. For some types of assignments, you might find that my communication is decently effective and somewhat concise. And for others...let's just say there's definitely room for improvement.
+
+In any case, I hope you enjoy browsing through my portfolio showcase!
 
 ---
 
 # Areas Of Exploration
 
 ## Readers, writers and texts
-
-<!--
-  Briefly answer the following questions:
-  Why and how do we study language and literature?
-  How are we affected by texts in various ways?
-  In what ways is meaning constructed, negotiated, expressed and interpreted?
-  How does language use vary amongst text types and amongst literary forms?
-  How does the structure or style of a text affect meaning?
-  How do texts offer insights and challenges?
--->
 
 <!-- Write about How Poems See, How Poems Sound -->
 
@@ -425,7 +425,7 @@ It's also important to remember to quote the text as much as possible to support
 
 ---
 
-# Literary Forms Overview
+# Literary Forms Overview + Examples
 
 ## Drama Examples
 
@@ -449,7 +449,7 @@ It's also important to remember to quote the text as much as possible to support
 
 ---
 
-## Vocabulary Associated with Each Literary Form
+# Vocabulary Associated with Each Literary Form
 
 <div class='mt-5'></div>
 
@@ -593,7 +593,11 @@ I've been wanting to start a blog for a while now (fun fact: I started a blog in
 
 In my opinion, the best way to manage stress is by creating a concrete plan for your day/week/month using a strategy like Timeblocking. Timeblocking involves dividing your day into chunks of time that are each dedicated to a single task. This way, you give each minute of your day a specific purpose. Timeblocking helps with managing stress because a lot of the stress many people experience comes from the lack of a concrete plan. When you lack a plan, your brain does not trust that you will be able to complete a task or a project, leading to unnecessary stress that negatively impacts your productivity.
 
-As for wellbeing, an idea I have recently o
+As for wellbeing, an idea I've recently been thinking about is the prioritization between consumption-oriented activities and production-oriented activities. Consumption-oriented activities include playing video games, watching videos, and listening to music; activities that mainly involve consuming content for your own benefit. In contrast, production-oriented activities include writing a novel, working on a project, or volunteering; activities that mainly involve producing things that either produce something new and physical in the real world or bring significant value to others. I believe that our society is placing too much emphasis on consumption-oriented content, *especially* with the advent of social media. I personally have very negative opinions on the use of social media and similar platforms whose business model depends on you spending your valuable time consuming content. I believe that in the long run, it's impossible to gain fulfillment from consumption-oriented activities; it's impossible to live a fulfilling live only consuming content created by others and not producing anything valuable of your own. While consumption-oriented activities may make us happy in the short run, they can't bring us fulfillment in life in the long run.
+
+Thus, I've recently been focused on helping people adopt a more production-oriented mindset where they strive to take on tasks or projects that end with them producing a physical artifact that brings something new in the world, whether it's writing a journal entry every night or starting a personal project applying the skills that you've acquired throughout your four years of high school.
+
+Of course, I'm not claiming that all consumption-oriented activities are bad, but I believe that for many of us, the balance between consumption and production is much too biased towards the consumption end. I think that for managing our wellbeing, spending more time on production-oriented activities can make a substantial difference, especially as production-oriented activities help bring "meaning to your life" where you're bringing something new into the world in contrast to consumption-oriented activities.
 
 ---
 
