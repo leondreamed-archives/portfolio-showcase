@@ -44,7 +44,7 @@ fonts:
 
 # Introduction
 
-Welcome to my portfolio showcase! This portfolio showcase is a curation of the various works I have completed throughout Year 1 and Year 2 of IB English ranging from your typical text analysis to drawings and fictional letters.
+Welcome to my portfolio showcase! This portfolio showcase is a curation of the various works I have completed throughout Year 1 and Year 2 of IB English, ranging from your typical text analysis to drawings and fictional letters.
 
 > Fun fact, this portfolio showcase was created using code! (The link to the source code can be found on the last page.) Now that I've found a way to use programming to complete an English assignment, I have successfully completed my personal challenge of incorporating programming into every academic subject! :)
 
@@ -56,7 +56,7 @@ However, in addition to software development, I'm also planning on pursuing entr
 
 Typically, communication (especially when it comes to presentations and public speaking) hasn't been my strongest area, and that's why it's been my main area of focus throughout the last four years of English courses.
 
-Of course, communication doesn't just include verbal communication, but also written communication, which composes the majority of my work showcased in this learner's portfolio. For some types of assignments, you might find that my communication is decently effective and somewhat concise. And for others...let's just say there's definitely room for improvement.
+Of course, communication doesn't just include verbal communication but also written communication, which composes the majority of my work showcased in this learner's portfolio. For some types of assignments, you might find that my communication is decently effective and somewhat concise. And for others...let's just say there's definitely room for improvement.
 
 In any case, I hope you enjoy browsing through my portfolio showcase!
 
