@@ -611,7 +611,7 @@ One of my areas _of_ growth in English during the past two years is my public sp
 
 # Credits & Source Code
 
-All images used in this presentation are courtesy of their original authors.
+All images and text extracts used in this presentation are courtesy of their original authors.
 
 <div class='h-full column justify-center'>
   <div class='p-8 border-2 border-gray-300 rounded-md mx-auto'>
@@ -623,6 +623,7 @@ All images used in this presentation are courtesy of their original authors.
       <div>
         The source code for these slides are available at <a href="https://github.com/leonzalion/portfolio-showcase">https://github.com/leonzalion/portfolio-showcase</a>
       </div>
+      <div class='text-xs text-gray-600 mt-2'>(They didn't require me to credit them; I just really loved their product)</div>
     </div>
   </div>
 </div>
